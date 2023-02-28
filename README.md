@@ -40,7 +40,7 @@ NCU MRL 之 Turtlebot3 與 Minibot 通用樹梅派作業系統映像檔
 
 ![](https://emanual.robotis.com/assets/images/platform/turtlebot3/setup/gparted.gif)
 
-# 根據 Turtlebot 或 Minibot 選擇要使用之 Catkin_ws
+# 根據 Turtlebot 或 Minibot 選擇要使用之 catkin_ws
 
 ### Turtlebot
 
