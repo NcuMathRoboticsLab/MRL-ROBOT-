@@ -65,6 +65,8 @@ nmtui
 
 ### Ethernet
 
+**預設為 10.0.0.1/24**
+
 ![](https://i.imgur.com/6Cbo0hL.png)
 
 ### WIFI
