@@ -9,7 +9,9 @@ NCU MRL 之 Turtlebot3 與 Minibot 通用樹梅派作業系統映像檔
 預設之使用者名稱與密碼為以下：
 
 **使用者名稱：** pi
+
 **密碼：** mrlrobot
+
 **root 密碼：** mrlrobot
 
 # OS 映像檔下載
