@@ -2,7 +2,7 @@
 
 # 簡介
 
-NCU MRL 之 Turtlebot3 與 Minibot 通用樹梅派作業系統映像檔
+NCU MRL 之 Turtlebot3 與 Minibot 通用樹梅派作業系統映像檔，以 [Ubuntu server 20.04](http://cdimage.ubuntu.com/ubuntu-server/focal/daily-preinstalled/current/) 製作而成
 
 此映像檔是使用 16G 大小之 SD card 製作成，因此僅支援 16G 以上之 SD card
 
