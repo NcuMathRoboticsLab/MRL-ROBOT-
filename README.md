@@ -16,7 +16,9 @@ NCU MRL 之 Turtlebot3 與 Minibot 通用樹梅派作業系統映像檔，以 [U
 
 # OS 映像檔下載
 
-[**Google drive**](https://drive.google.com/file/d/1XJxgqp1s11CBqZ0BNtZaVwCr0-Bp8-ca/view) 
+[**MRL-ROBOT-v2.img.gz**](https://drive.google.com/file/d/1Juw80gOXfAmqQGVdiwhU69F1KMXzhPBM/view) 
+
+[**MRL-ROBOT-v2.img.xz**](https://drive.google.com/file/d/1t6OtquqjAhgaKC-g_HZmwYWBKy52GM1q/view) 
 
 # 使用 Raspberry Pi Imager 、 Rufus 或 Disks Utility 燒入
 
